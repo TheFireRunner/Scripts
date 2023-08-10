@@ -2,6 +2,7 @@ TasteZumTeleportieren = 38
 
 -- Hier ist der Link um eine andere Taste einzustellen. Aktuell ist es 38 (E).
 -- https://docs.fivem.net/docs/game-references/controls/#controls
+-- by TheFireRunner
 
 LastDeadTime = 0
 LastDeadLocation = 0
